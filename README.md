@@ -1,14 +1,12 @@
 
 
-# ESL-HLA: Efficient Self-supervised Learning via Hadamard Low-rank Approximation
+# EVMT-HLA: Efficient Vision Model Training via Hadamard Low-rank Approximation
 
 ## Introduction
 By projecting gradients into a low-rank Hadamard space, we reduce memory usage by up to 50%—while preserving pretraining loss and accuracy in DeiT, and even improving performance in SimCLR, BYOL.
 
 ## Figures
-![ESL-HLA.png](./Image/ESL-HLA.png)
-
-
+![EVMT-HLA.png](./Image/EVMT-HLA.png)
 
 ## Usage
 ### DeiT
